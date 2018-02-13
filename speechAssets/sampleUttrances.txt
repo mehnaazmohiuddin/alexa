@@ -1,0 +1,6 @@
+GetChange How much change should i get in {Number1} and {Number2}?
+GetChange {Number1} and {Number2}
+GetChange How much to get back from {Number1} giving {Number2}?
+GetChange How much to get back giving {Number1} having actual {Number2}?
+GetChange Giving {Number1} but actual price is {Number2}
+GetChange How much should i get back from {Number1} given {Number2}

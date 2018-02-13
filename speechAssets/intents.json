@@ -1,0 +1,27 @@
+{
+  "intents": [
+    {
+      "intent" :"GetChange",
+      "slots":[
+        {
+          "name":"NumberA",
+          "type":"AMAZON.NUMBER"
+        },
+        {
+          "name":"NumberB",
+          "type":"AMAZON.NUMBER"
+        }
+      ]
+    }
+    ,
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
